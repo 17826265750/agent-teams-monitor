@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "Bash(npm create vite:*)",
+      "Bash(npm install:*)",
+      "Bash(npx:*)",
+      "Bash(test:*)",
+      "Bash(npm run build:*)",
+      "Bash(node:*)",
+      "Bash(npm run dev:*)",
+      "Bash(dir:*)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "mcp__playwright__browser_console_messages",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_wait_for",
+      "Bash(gh repo create:*)",
+      "mcp__github__create_repository",
+      "Bash(git push:*)"
+    ]
+  }
+}

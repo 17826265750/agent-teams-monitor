@@ -1,0 +1,7 @@
+Total messages: 6 (Errors: 0, Warnings: 0)
+Returning 4 messages for level "info"
+
+[INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=13fe43ca:20102
+[LOG] [Socket] Connected to server @ http://localhost:5173/src/hooks/useLogs.js:19
+[LOG] [Socket] Server message: Connected to Agent Logs Monitor @ http://localhost:5173/src/hooks/useLogs.js:30
+[LOG] [Socket] Received files list: [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object] @ http://localhost:5173/src/hooks/useLogs.js:34

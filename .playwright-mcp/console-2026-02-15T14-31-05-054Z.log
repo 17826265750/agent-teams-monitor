@@ -1,0 +1,42 @@
+[  767778ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771165865053:112:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771165865053:115
+[  780291ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771165865053:112:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771165865053:115
+[  791868ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166647439:112:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166647439:115
+[  807321ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[  839162ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1280212ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1362458ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1580044ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1679517ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1741576ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1749201ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 1813219ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 2307207ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
+[ 2309932ms] [ERROR] Error parsing inbox JSON: SyntaxError: Unexpected non-whitespace character after JSON at position 166 (line 8 column 1)
+    at JSON.parse (<anonymous>)
+    at loadInitialLogs (http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:119:39) @ http://localhost:5173/src/hooks/useLogs.js?t=1771166657304:122
