@@ -1,0 +1,26 @@
+{
+  "name": "agent-logs-monitor-backend",
+  "version": "1.0.0",
+  "description": "Backend service for monitoring Claude agent logs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node test-api.js",
+    "test:integration": "cd .. && node test-integration.js",
+    "logs:monitor": "tail -f ~/.claude/tasks/*.log"
+  },
+  "keywords": ["logs", "monitoring", "socket.io", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "cors": "^2.8.5",
+    "chokidar": "^3.5.3",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
